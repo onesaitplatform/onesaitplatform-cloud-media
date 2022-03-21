@@ -1,4 +1,4 @@
-# Onesait Platform Community Edition 
+# Onesait Platform Community Edition Media
 
 ## Control Panel Videos
 Onesait Platform is managed from a unified Web Console (Control Panel), here you can see some of its capabilities:
@@ -43,30 +43,3 @@ Onesait Platform is managed from a unified Web Console (Control Panel), here you
 In this section you can find examples of applications built on Platform.
 **City Landscape Manager**
 ![](https://raw.githubusercontent.com/onesaitplatform/onesaitplatform-cloud-media/main/resources/videos/13.example_on_platform.gif)
-
-## Documentation
-You can find all the Platform documentation in the <a href="https://onesaitplatform.refined.site/" target="_blank">Developer Portal</a>.
-
-Inside you can find workshops, tutorials, demo videos, development guides, deployment guides,...
-
-We recommend that you start with our <a href="https://onesaitplatform.refined.site/space/DOCT/2221610206/Getting+Started+with+Onesait+Platform+CloudLab)" target="_blank">Getting Started Guide</a>.
-
-## Support
-Having trouble with Onesait Platform? We’d like to help!
-
-* Check the reference documentation, especially the [Component Guides](https://onesaitplatform.refined.site/space/DOCT/2220425217/Component+Guides)
-* Report bugs on <a href="https://github.com/onesaitplatform/onesaitplatform-cloud/issues" target="_blank">GitHub Issues</a>
-
-## Roadmap & Contributions
-
-At the link you can find our [Roadmap](https://onesaitplatform.refined.site/space/ROAD/2283470956/Roadmap+Onesait+Platform)
-
-To contribute to Onesait Platform, please visit [How to contribute](https://onesaitplatform.refined.site/space/DOCT/2220814633/How+to+contribute%3F) information.
-
-
-## License
-
-Onesait Platform is Open Source software released under the [Apache Software License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
-
-See [`LICENSE`](LICENSE) and [`copyright.txt`](copyright.txt) for details.
-
