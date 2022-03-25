@@ -43,3 +43,6 @@ Onesait Platform is managed from a unified Web Console (Control Panel), here you
 In this section you can find examples of applications built on Platform.
 **City Landscape Manager**
 ![](https://raw.githubusercontent.com/onesaitplatform/onesaitplatform-cloud-media/main/resources/videos/13.example_on_platform.gif)
+
+**Helsinki Dashboard for Select4Cities**
+![](https://raw.githubusercontent.com/onesaitplatform/onesaitplatform-cloud-media/main/resources/videos/Dashboard%20Helsinki%20Select4Cities.gif)
